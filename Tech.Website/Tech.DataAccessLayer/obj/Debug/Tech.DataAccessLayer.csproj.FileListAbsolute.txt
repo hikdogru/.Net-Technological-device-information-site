@@ -1,0 +1,15 @@
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\Tech.DataAccessLayer.dll.config
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\Tech.DataAccessLayer.dll
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\Tech.DataAccessLayer.pdb
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\Tech.WebClass.dll
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\Tech.WebClass.pdb
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\Tech.WebClass.dll.config
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.csproj.CopyComplete
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.dll
+C:\Users\Halil~\source\repos\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.pdb

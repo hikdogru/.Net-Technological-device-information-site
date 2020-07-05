@@ -1,0 +1,12 @@
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\bin\Debug\Tech.WebClass.dll.config
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\bin\Debug\Tech.WebClass.dll
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\bin\Debug\Tech.WebClass.pdb
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\bin\Debug\EntityFramework.dll
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\bin\Debug\EntityFramework.xml
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.csprojAssemblyReference.cache
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.csproj.CoreCompileInputs.cache
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.csproj.CopyComplete
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.dll
+C:\Users\Halil~\source\repos\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.pdb
