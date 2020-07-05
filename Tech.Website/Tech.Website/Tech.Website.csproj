@@ -2193,7 +2193,6 @@
     <Content Include="Admin\svg\zw-2.svg" />
     <Content Include="Admin\svg\zw.svg" />
     <Content Include="Admin\Users.aspx" />
-    <Content Include="Admin\WebForm1.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Details.aspx" />
@@ -2473,13 +2472,6 @@
     </Compile>
     <Compile Include="Admin\Users.aspx.designer.cs">
       <DependentUpon>Users.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Admin\WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Admin\WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>

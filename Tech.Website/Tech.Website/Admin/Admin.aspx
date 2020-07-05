@@ -35,9 +35,7 @@
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="main" runat="server">
-    <asp:ScriptManager runat="server"></asp:ScriptManager>
-    <asp:UpdatePanel runat="server">
-        <ContentTemplate>
+    
     <div class="pcoded-inner-content">
 <div class="main-body">
 <div class="page-wrapper">
@@ -218,7 +216,7 @@
 </div>
 </div>
 </div>
-</div></ContentTemplate></asp:UpdatePanel>
+</div>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="script" runat="server">
     
