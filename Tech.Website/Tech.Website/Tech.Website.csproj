@@ -132,6 +132,7 @@
     <Content Include="Admin\css\jquery.steps.css" />
     <Content Include="Admin\css\jquery.toolbar.css" />
     <Content Include="Admin\css\leaflet.css" />
+    <Content Include="Admin\css\line-icons.css" />
     <Content Include="Admin\css\list.css" />
     <Content Include="Admin\css\mapbox-gl.css" />
     <Content Include="Admin\css\markercluster.css" />
