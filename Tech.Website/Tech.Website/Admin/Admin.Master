@@ -45,10 +45,10 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="MyWebSite/assets/fonts/line-icons.css">
 
-    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
 </head>
-<asp:ContentPlaceHolder ID="head" runat="server">
-</asp:ContentPlaceHolder>
+
 <body>
     <form id="form1" runat="server">
 
