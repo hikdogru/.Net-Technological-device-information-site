@@ -46,7 +46,7 @@
                             
                                     </div>
                                         
-                                    <button class="btn btn-common" type="button"><i class="lni-search"></i> Arama</button>
+                                    <button class="btn btn-common" type="button"><i class="lni-search"></i> Search Now</button>
                             
                                 </form>
 
