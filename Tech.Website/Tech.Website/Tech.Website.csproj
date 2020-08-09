@@ -2761,7 +2761,6 @@
     <Content Include="Admin\node_modules\wrappy\LICENSE" />
     <Content Include="Admin\node_modules\wrappy\package.json" />
     <Content Include="Admin\node_modules\wrappy\README.md" />
-    <Content Include="Admin\package-lock.json" />
     <Content Include="Admin\ttf\dd-icon.ttf" />
     <Content Include="Admin\ttf\themify9f24.ttf" />
     <Content Include="Admin\woff\dd-icon.woff" />

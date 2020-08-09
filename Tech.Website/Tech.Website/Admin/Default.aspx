@@ -111,7 +111,6 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="script" runat="server">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-    <script src="js/rocket-loader.min.js" data-cf-settings="88add89075ed2b878b934720-|49" defer=""></script>
 
     <script src="js/jquery.datatables.min.js" type="7ce0e70970bcaec788845106-text/javascript"></script>
     <script src="js/datatables.buttons.min.js" type="7ce0e70970bcaec788845106-text/javascript"></script>

@@ -52,11 +52,6 @@
 <body>
     <form id="form1" runat="server">
 
-
-        <div class="loader-bg">
-            <div class="loader-bar"></div>
-        </div>
-
         <div id="pcoded" class="pcoded">
             <div class="pcoded-overlay-box"></div>
             <div class="pcoded-container navbar-wrapper">
@@ -602,15 +597,7 @@
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"
         type="d2d1d6e2f87cbebdf4013b26-text/javascript"></script>
-    <script type="d2d1d6e2f87cbebdf4013b26-text/javascript">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-23581568-13');
-
-
-    </script>
+   
     <script src="js/rocket-loader.min.js" data-cf-settings="d2d1d6e2f87cbebdf4013b26-|49" defer=""></script>
     <asp:ContentPlaceHolder ID="script" runat="server">
     </asp:ContentPlaceHolder>
