@@ -11,7 +11,7 @@
 
             .product-img img {
                 width: 250px;
-                height: 350px;
+                object-fit:cover;
             }
 
         .slider::-webkit-slider-thumb {
@@ -67,8 +67,7 @@
 
 
 <asp:Content ID="Content2" ContentPlaceHolderID="hero" runat="server">
-   
-    <div id="hero-area" style="height: 345px;">
+   <div id="hero-area" style="height: 345px;">
         <div class="overlay"></div>
         <div class="container">
             <div class="row justify-content-center">
@@ -228,7 +227,7 @@
                         </ul>
                     </div>
 
-                    <asp:Label runat="server" ID="lbl"> </asp:Label>
+                    
                     <div class="adds-wrapper">
 
                         <div class="tab-content">

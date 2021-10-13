@@ -191,7 +191,6 @@ namespace Tech.Website
             if (!string.IsNullOrEmpty(condition))
             {
                 string brandName = condition.Substring(0, condition.Length - 1);
-                lbl.Text = brandName;
                 var productList = _productDal.JoinProducts(brandName);
 
                 productslv.DataSource = productList;
