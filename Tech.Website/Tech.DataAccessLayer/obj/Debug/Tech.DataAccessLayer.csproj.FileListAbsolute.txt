@@ -24,7 +24,7 @@ H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.D
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.DataAccessLayer\bin\Debug\EntityFramework.xml
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.csproj.CoreCompileInputs.cache
-H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.csproj.CopyComplete
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.dll
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.pdb
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.csproj.AssemblyReference.cache
+H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.DataAccessLayer\obj\Debug\Tech.DataAccessLayer.csproj.CopyComplete

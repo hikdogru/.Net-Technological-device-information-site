@@ -18,7 +18,6 @@ H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.W
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.WebClass\bin\Debug\EntityFramework.xml
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.WebClass\bin\Debug\EntityFramework.SqlServer.xml
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.csproj.CoreCompileInputs.cache
-H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.csproj.CopyComplete
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.dll
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.pdb
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.WebClass\obj\Debug\Tech.WebClass.csproj.AssemblyReference.cache

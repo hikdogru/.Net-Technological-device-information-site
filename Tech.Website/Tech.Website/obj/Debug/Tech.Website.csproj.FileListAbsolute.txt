@@ -131,8 +131,8 @@ H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.W
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.Website\bin\EntityFramework.xml
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.Website\bin\EntityFramework.SqlServer.xml
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.Website\obj\Debug\Tech.Website.csproj.CopyComplete
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.Website\obj\Debug\Tech.Website.csproj.AssemblyReference.cache
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.Website\bin\EntityFramework.dll
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.Website\bin\EntityFramework.SqlServer.dll
 H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\GithubProjects\.Net-Technological-device-information-site\Tech.Website\Tech.Website\obj\Debug\Tech.Website.csproj.CopyComplete
